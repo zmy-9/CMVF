@@ -2,7 +2,7 @@
 ICDM'2023: Cognition-Mode Aware Variational Representation Learning Framework for Knowledge Tracing.
 (Tensorflow implementation for CMVF)
 
-This is the code for the paper: [Cognition-Mode Aware Variational Representation Learning Framework for Knowledge Tracing](https://arxiv.org/pdf/2309.01179.pdf)  
+This is the code for the paper: [Cognition-Mode Aware Variational Representation Learning Framework for Knowledge Tracing](https://ieeexplore.ieee.org/document/10415837)  
 
 If you find this code is useful for your research, please cite as:
 ```
